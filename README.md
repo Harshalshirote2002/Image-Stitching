@@ -1,4 +1,4 @@
-# Image-Stitch
+# Image Stitching
 
 The `panorama.py` file comprises the code for stitching two images. 
 
