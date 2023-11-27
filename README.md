@@ -1,4 +1,4 @@
-# Image-Stitch
+# Image Stitching
 
 The `panorama.py` file comprises the code for stitching two images. 
 
@@ -25,7 +25,7 @@ Obtained keypoint matches:
 
 Note that the images are in order: ImageB, ImageA.
 
-Final "streched" Panorama:
+Final "stitched" Panorama:
 
 ![image](https://github.com/Harshalshirote2002/Image-Stitch/assets/75237728/b8756b2f-5984-46d4-825e-5803e88cd965)
 
